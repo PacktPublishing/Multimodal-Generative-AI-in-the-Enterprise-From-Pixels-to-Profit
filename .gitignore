@@ -1,0 +1,50 @@
+# Compiled source files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor directories
+.idea/
+.vscode/
+*.swp
+*~
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Build artifacts and packaging
+build/
+dist/
+target/
+node_modules/
+
+# Secrets and credentials - NEVER commit these
+.env
+credentials.json
+secrets.yaml
+*.key
+
+# Cache
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Coverage reports
+htmlcov/
+.coverage

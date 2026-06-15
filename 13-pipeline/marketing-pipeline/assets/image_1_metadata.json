@@ -1,0 +1,40 @@
+{
+  "session_id": "f15761d3-6ccb-4b0b-88ad-4c860b3f8726",
+  "timestamp": "2026-06-15T16:11:45.372454+00:00",
+  "prompt": "Cinematography: 35mm Lifestyle, Dramatic high-contrast morning light streaming through a window, Deep (all in focus). Subject: Sleek, organic-shaped air circulator, Satin white and light wood premium organic finish, Standing elegant and static in the center of the wellness corner. Composition: Lifestyle Action, Eye-level. Style: Warm #f3d6a1 ochre and soft #F4F4F9 off-white tones, Aspirational and holistic, Smooth matte plastic, soft linen, warm timber. Environment: Elegant, cozy residential wellness corner, Blur: Soft, gentle background blur.\n\nGlobal Styleguide:\n# Global Styleguide\n\n## Brand Guidelines\n- **Primary Colors:** #FF5733 (Vibrant Sunrise), #f3d6a1 (Boring Beige), #F4F4F9 (Cloud White).\n- **Mood/Tone:** Modern, energetic, premium, forward-thinking, and slightly playful.\n- **Inclusions:** Cozy settings, wellbeing, clear typography.\n- **Exclusions:** No photorealistic people, no cluttered backgrounds, no cheap or spammy text.\n\n## Modality-Specific Instructions\n\n### Text (Copywriting & Strategy)\n- Keep sentences short, punchy, and action-oriented.\n- Emphasize the product's innovative aspects.\n- Avoid prohibited terms: \"cheap\", \"guaranteed\", \"miracle\", \"overnight\".\n\n### Images (Visuals)\n- Focus on product features, abstract representations of AI, or sleek environments.\n- Lighting should be dramatic, with high contrast.\n- Absolutely no human figures or human hands.\n\n### Video\n- Smooth, sweeping camera movements (e.g., slow pans, zoom-ins).\n- Transitions should be seamless.\n- Maintain the primary color palette throughout the sequence.\n- Adhere strictly to the \"NO HUMANS\" exclusion.\n- NO TEXT",
+  "blueprint": {
+    "image_specs": {
+      "format": "Instagram Post",
+      "aspect_ratio": "1:1",
+      "resolution": "High-Res Commercial"
+    },
+    "cinematography": {
+      "lens_type": "35mm Lifestyle",
+      "depth_of_field": "Deep (all in focus)",
+      "lighting": "Dramatic high-contrast morning light streaming through a window",
+      "exposure": "High-key"
+    },
+    "subject": {
+      "identity": "Sleek, organic-shaped air circulator",
+      "placement": "Rule of Thirds",
+      "wardrobe_or_finish": "Satin white and light wood premium organic finish",
+      "action_pose": "Standing elegant and static in the center of the wellness corner"
+    },
+    "composition": {
+      "shot_type": "Lifestyle Action",
+      "angle": "Eye-level",
+      "negative_space": "Top half for copy"
+    },
+    "visual_details": {
+      "color_palette": "Warm #f3d6a1 ochre and soft #F4F4F9 off-white tones",
+      "mood": "Aspirational and holistic",
+      "texture": "Smooth matte plastic, soft linen, warm timber",
+      "props": "Potted plant, linen curtain"
+    },
+    "environment": {
+      "location": "Elegant, cozy residential wellness corner",
+      "background_blur": "Soft, gentle background blur"
+    }
+  },
+  "persona_name": "Clara Sterling"
+}

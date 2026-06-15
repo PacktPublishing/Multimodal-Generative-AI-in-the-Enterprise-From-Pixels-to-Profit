@@ -1,0 +1,7 @@
+GEMINI_API_KEY="your_api_key_here" 
+OPENAI_API_KEY="your_api_key_here" 
+GOOGLE_CLOUD_PROJECT="your_project_here" # optional
+GOOGLE_CLOUD_LOCATION="global" # optional
+TEXT_MODEL="gemini-3.5-flash" 
+IMAGE_MODEL="gemini-3.1-flash-image-preview" 
+VIDEO_MODEL="veo-3.1-generate-preview" 

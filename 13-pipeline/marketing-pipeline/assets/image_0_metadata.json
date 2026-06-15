@@ -1,0 +1,40 @@
+{
+  "session_id": "f15761d3-6ccb-4b0b-88ad-4c860b3f8726",
+  "timestamp": "2026-06-15T16:10:17.362121+00:00",
+  "prompt": "Cinematography: 85mm Portrait, Dramatic Spotlight, Shallow (bokeh). Subject: Sleek futuristic smart fan with subtle glowing orange elements, Premium matte chassis with metallic finishes and glowing #FF5733 accents, Static and active but completely whisper-quiet. Composition: Hero Shot, Hero-angle (low). Style: #F4F4F9 base with contrasting #FF5733 orange accents, Minimalist and futuristic, Polished metal and smooth matte plastic. Environment: Pristine minimalist desk setup, Blur: Moderate blur focusing attention on the device.\n\nGlobal Styleguide:\n# Global Styleguide\n\n## Brand Guidelines\n- **Primary Colors:** #FF5733 (Vibrant Sunrise), #f3d6a1 (Boring Beige), #F4F4F9 (Cloud White).\n- **Mood/Tone:** Modern, energetic, premium, forward-thinking, and slightly playful.\n- **Inclusions:** Cozy settings, wellbeing, clear typography.\n- **Exclusions:** No photorealistic people, no cluttered backgrounds, no cheap or spammy text.\n\n## Modality-Specific Instructions\n\n### Text (Copywriting & Strategy)\n- Keep sentences short, punchy, and action-oriented.\n- Emphasize the product's innovative aspects.\n- Avoid prohibited terms: \"cheap\", \"guaranteed\", \"miracle\", \"overnight\".\n\n### Images (Visuals)\n- Focus on product features, abstract representations of AI, or sleek environments.\n- Lighting should be dramatic, with high contrast.\n- Absolutely no human figures or human hands.\n\n### Video\n- Smooth, sweeping camera movements (e.g., slow pans, zoom-ins).\n- Transitions should be seamless.\n- Maintain the primary color palette throughout the sequence.\n- Adhere strictly to the \"NO HUMANS\" exclusion.\n- NO TEXT",
+  "blueprint": {
+    "image_specs": {
+      "format": "Hero Header",
+      "aspect_ratio": "16:9",
+      "resolution": "8K Photorealistic"
+    },
+    "cinematography": {
+      "lens_type": "85mm Portrait",
+      "depth_of_field": "Shallow (bokeh)",
+      "lighting": "Dramatic Spotlight",
+      "exposure": "Low-key"
+    },
+    "subject": {
+      "identity": "Sleek futuristic smart fan with subtle glowing orange elements",
+      "placement": "Center-stage",
+      "wardrobe_or_finish": "Premium matte chassis with metallic finishes and glowing #FF5733 accents",
+      "action_pose": "Static and active but completely whisper-quiet"
+    },
+    "composition": {
+      "shot_type": "Hero Shot",
+      "angle": "Hero-angle (low)",
+      "negative_space": "Left and right thirds for typography"
+    },
+    "visual_details": {
+      "color_palette": "#F4F4F9 base with contrasting #FF5733 orange accents",
+      "mood": "Minimalist and futuristic",
+      "texture": "Polished metal and smooth matte plastic",
+      "props": "Sleek minimalist wooden desk, pristine notepad"
+    },
+    "environment": {
+      "location": "Pristine minimalist desk setup",
+      "background_blur": "Moderate blur focusing attention on the device"
+    }
+  },
+  "persona_name": "Julian Vance"
+}

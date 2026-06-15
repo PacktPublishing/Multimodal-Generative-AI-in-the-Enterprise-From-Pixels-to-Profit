@@ -1,0 +1,14 @@
+{
+  "session_id": "f15761d3-6ccb-4b0b-88ad-4c860b3f8726",
+  "timestamp": "2026-06-15T16:14:23.857782+00:00",
+  "prompt": "Camera Movement: Continuous, smooth orbital zoom-out. Lighting: Dynamic, high-contrast premium lighting transitions. Subject Action: The premium device rotates gracefully, distributing air multi-directionally with subtle visual cues. Environment: High-tech minimalist workspace hub with digital accents. Color Grading: Cool tech-focused with vibrant orange and white (#FF5733/#F4F4F9) light elements. Transitions: Seamless loop with smooth cuts.\n\nGlobal Styleguide:\n# Global Styleguide\n\n## Brand Guidelines\n- **Primary Colors:** #FF5733 (Vibrant Sunrise), #f3d6a1 (Boring Beige), #F4F4F9 (Cloud White).\n- **Mood/Tone:** Modern, energetic, premium, forward-thinking, and slightly playful.\n- **Inclusions:** Cozy settings, wellbeing, clear typography.\n- **Exclusions:** No photorealistic people, no cluttered backgrounds, no cheap or spammy text.\n\n## Modality-Specific Instructions\n\n### Text (Copywriting & Strategy)\n- Keep sentences short, punchy, and action-oriented.\n- Emphasize the product's innovative aspects.\n- Avoid prohibited terms: \"cheap\", \"guaranteed\", \"miracle\", \"overnight\".\n\n### Images (Visuals)\n- Focus on product features, abstract representations of AI, or sleek environments.\n- Lighting should be dramatic, with high contrast.\n- Absolutely no human figures or human hands.\n\n### Video\n- Smooth, sweeping camera movements (e.g., slow pans, zoom-ins).\n- Transitions should be seamless.\n- Maintain the primary color palette throughout the sequence.\n- Adhere strictly to the \"NO HUMANS\" exclusion.\n- NO TEXT",
+  "blueprint": {
+    "camera_movement": "Continuous, smooth orbital zoom-out",
+    "lighting": "Dynamic, high-contrast premium lighting transitions",
+    "subject_action": "The premium device rotates gracefully, distributing air multi-directionally with subtle visual cues",
+    "environment": "High-tech minimalist workspace hub with digital accents",
+    "color_grading": "Cool tech-focused with vibrant orange and white (#FF5733/#F4F4F9) light elements",
+    "transitions": "Seamless loop with smooth cuts"
+  },
+  "persona_name": "Marcus Chen"
+}

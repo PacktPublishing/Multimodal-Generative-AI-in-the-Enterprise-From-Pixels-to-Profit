@@ -1,0 +1,14 @@
+{
+  "session_id": "f15761d3-6ccb-4b0b-88ad-4c860b3f8726",
+  "timestamp": "2026-06-15T16:11:31.933270+00:00",
+  "prompt": "Camera Movement: Slow continuous pan with a smooth zoom-in. Lighting: Soft workspace glow transitioning to dramatic spotlighting. Subject Action: The smart fan activates silently with a gentle pulsing aura in #FF5733 along its metallic chassis. Environment: Ultra-clean, minimalist home office desk setup. Color Grading: Clean #F4F4F9 base with vibrant #FF5733 pops and a warm transition. Transitions: Smooth fade to cozy soft-lit setting.\n\nGlobal Styleguide:\n# Global Styleguide\n\n## Brand Guidelines\n- **Primary Colors:** #FF5733 (Vibrant Sunrise), #f3d6a1 (Boring Beige), #F4F4F9 (Cloud White).\n- **Mood/Tone:** Modern, energetic, premium, forward-thinking, and slightly playful.\n- **Inclusions:** Cozy settings, wellbeing, clear typography.\n- **Exclusions:** No photorealistic people, no cluttered backgrounds, no cheap or spammy text.\n\n## Modality-Specific Instructions\n\n### Text (Copywriting & Strategy)\n- Keep sentences short, punchy, and action-oriented.\n- Emphasize the product's innovative aspects.\n- Avoid prohibited terms: \"cheap\", \"guaranteed\", \"miracle\", \"overnight\".\n\n### Images (Visuals)\n- Focus on product features, abstract representations of AI, or sleek environments.\n- Lighting should be dramatic, with high contrast.\n- Absolutely no human figures or human hands.\n\n### Video\n- Smooth, sweeping camera movements (e.g., slow pans, zoom-ins).\n- Transitions should be seamless.\n- Maintain the primary color palette throughout the sequence.\n- Adhere strictly to the \"NO HUMANS\" exclusion.\n- NO TEXT",
+  "blueprint": {
+    "camera_movement": "Slow continuous pan with a smooth zoom-in",
+    "lighting": "Soft workspace glow transitioning to dramatic spotlighting",
+    "subject_action": "The smart fan activates silently with a gentle pulsing aura in #FF5733 along its metallic chassis",
+    "environment": "Ultra-clean, minimalist home office desk setup",
+    "color_grading": "Clean #F4F4F9 base with vibrant #FF5733 pops and a warm transition",
+    "transitions": "Smooth fade to cozy soft-lit setting"
+  },
+  "persona_name": "Julian Vance"
+}
