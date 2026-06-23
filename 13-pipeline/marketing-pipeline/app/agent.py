@@ -156,7 +156,7 @@ def search_web(query: str) -> str:
     try:
         client = Client()
         response = client.models.generate_content(
-            model="gemini-2.5-flash",
+            model="gemini-3.5-flash",
             contents=f"Perform a search for the following query and summarize the findings in detail: {query}",
             config=types.GenerateContentConfig(
                 tools=[types.Tool(google_search=types.GoogleSearch())]
