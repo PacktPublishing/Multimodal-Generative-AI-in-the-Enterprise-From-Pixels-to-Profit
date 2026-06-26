@@ -21,13 +21,13 @@ The code is organized sequentially by chapters:
 | Chapter / Directory | Topic | Core Contents |
 | :--- | :--- | :--- |
 | 🚀 **Getting Started** | **Environment Setup** | Environment verification (`00_environment_check.ipynb`) |
-| 📝 [04-text-generation](file:///Users/mtschochohei/Coding/genmedia-genai-book/Multimodal-Generative-AI-in-the-Enterprise-From-Pixels-to-Profit/04-text-generation) | **Text Generation** | Crafting the strategic marketing foundation |
-| 🎨 [05-image-generation](file:///Users/mtschochohei/Coding/genmedia-genai-book/Multimodal-Generative-AI-in-the-Enterprise-From-Pixels-to-Profit/05-image-generation) | **Image Generation** | Visualizing the campaign narrative and generating product photography |
-| 🎙 [06-audio-generation](file:///Users/mtschochohei/Coding/genmedia-genai-book/Multimodal-Generative-AI-in-the-Enterprise-From-Pixels-to-Profit/06-audio-generation) | **Audio Generation** | Synthesizing voices and giving the campaign a voice |
-| 🎬 [07-video-generation](file:///Users/mtschochohei/Coding/genmedia-genai-book/Multimodal-Generative-AI-in-the-Enterprise-From-Pixels-to-Profit/07-video-generation) | **Video Generation** | Assembling the final video ad elements and media assets |
-| 🛡 [09-security](file:///Users/mtschochohei/Coding/genmedia-genai-book/Multimodal-Generative-AI-in-the-Enterprise-From-Pixels-to-Profit/09-security) | **Security & Ethics** | Brand guidelines, copyright guardrails, and enterprise security |
-| ⚙️ [12-deployment](file:///Users/mtschochohei/Coding/genmedia-genai-book/Multimodal-Generative-AI-in-the-Enterprise-From-Pixels-to-Profit/12-deployment) | **Deployment & Iteration** | Running evaluations and tracking model lifecycle |
-| ⛓ [13-pipeline](file:///Users/mtschochohei/Coding/genmedia-genai-book/Multimodal-Generative-AI-in-the-Enterprise-From-Pixels-to-Profit/13-pipeline) | **Enterprise Pipelines** | Scaling agentic production via ADK, `uv`, and orchestrating complex tasks |
+| 📝 [04-text-generation](04-text-generation) | **Text Generation** | Crafting the strategic marketing foundation |
+| 🎨 [05-image-generation](05-image-generation) | **Image Generation** | Visualizing the campaign narrative and generating product photography |
+| 🎙 [06-audio-generation](06-audio-generation) | **Audio Generation** | Synthesizing voices and giving the campaign a voice |
+| 🎬 [07-video-generation](07-video-generation) | **Video Generation** | Assembling the final video ad elements and media assets |
+| 🛡 [09-security](09-security) | **Security & Ethics** | Brand guidelines, copyright guardrails, and enterprise security |
+| ⚙️ [12-deployment](12-deployment) | **Deployment & Iteration** | Running evaluations and tracking model lifecycle |
+| ⛓ [13-pipeline](13-pipeline) | **Enterprise Pipelines** | Scaling agentic production via ADK, `uv`, and orchestrating complex tasks |
 
 ---
 
