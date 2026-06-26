@@ -1,0 +1,40 @@
+{
+  "session_id": "f15761d3-6ccb-4b0b-88ad-4c860b3f8726",
+  "timestamp": "2026-06-15T16:13:08.992000+00:00",
+  "prompt": "Cinematography: 100mm Macro, Dramatic rim lighting with subtle orange glow, Shallow (bokeh). Subject: Premium intelligent multi-directional air device, Carbon fiber and brushed metal premium-finish with #FF5733 and #F4F4F9 highlights, Positioned dynamically casting sharp architectural shadows. Composition: Product Close-up, Hero-angle (low). Style: Stark dark tones contrasted with #FF5733 and #F4F4F9 glowing accents, Minimalist and high-tech, Brushed metallic, textured carbon fiber. Environment: Stark futuristic digital lab setting with a dark studio backdrop, Blur: High blur with ambient light bokeh.\n\nGlobal Styleguide:\n# Global Styleguide\n\n## Brand Guidelines\n- **Primary Colors:** #FF5733 (Vibrant Sunrise), #f3d6a1 (Boring Beige), #F4F4F9 (Cloud White).\n- **Mood/Tone:** Modern, energetic, premium, forward-thinking, and slightly playful.\n- **Inclusions:** Cozy settings, wellbeing, clear typography.\n- **Exclusions:** No photorealistic people, no cluttered backgrounds, no cheap or spammy text.\n\n## Modality-Specific Instructions\n\n### Text (Copywriting & Strategy)\n- Keep sentences short, punchy, and action-oriented.\n- Emphasize the product's innovative aspects.\n- Avoid prohibited terms: \"cheap\", \"guaranteed\", \"miracle\", \"overnight\".\n\n### Images (Visuals)\n- Focus on product features, abstract representations of AI, or sleek environments.\n- Lighting should be dramatic, with high contrast.\n- Absolutely no human figures or human hands.\n\n### Video\n- Smooth, sweeping camera movements (e.g., slow pans, zoom-ins).\n- Transitions should be seamless.\n- Maintain the primary color palette throughout the sequence.\n- Adhere strictly to the \"NO HUMANS\" exclusion.\n- NO TEXT",
+  "blueprint": {
+    "image_specs": {
+      "format": "Billboard",
+      "aspect_ratio": "16:9",
+      "resolution": "8K Photorealistic"
+    },
+    "cinematography": {
+      "lens_type": "100mm Macro",
+      "depth_of_field": "Shallow (bokeh)",
+      "lighting": "Dramatic rim lighting with subtle orange glow",
+      "exposure": "Low-key"
+    },
+    "subject": {
+      "identity": "Premium intelligent multi-directional air device",
+      "placement": "Center-stage",
+      "wardrobe_or_finish": "Carbon fiber and brushed metal premium-finish with #FF5733 and #F4F4F9 highlights",
+      "action_pose": "Positioned dynamically casting sharp architectural shadows"
+    },
+    "composition": {
+      "shot_type": "Product Close-up",
+      "angle": "Hero-angle (low)",
+      "negative_space": "Right third for bold text"
+    },
+    "visual_details": {
+      "color_palette": "Stark dark tones contrasted with #FF5733 and #F4F4F9 glowing accents",
+      "mood": "Minimalist and high-tech",
+      "texture": "Brushed metallic, textured carbon fiber",
+      "props": "Minimal abstract tech pedestal"
+    },
+    "environment": {
+      "location": "Stark futuristic digital lab setting with a dark studio backdrop",
+      "background_blur": "High blur with ambient light bokeh"
+    }
+  },
+  "persona_name": "Marcus Chen"
+}

@@ -1,0 +1,49 @@
+{
+  "personas": [
+    {
+      "name": "Julian Vance",
+      "age": 34,
+      "interests": [
+        "Smart home automation",
+        "Minimalist interior design",
+        "Remote workspace efficiency",
+        "Ergonomic design"
+      ],
+      "pain_points": [
+        "Noise distractions during video calls",
+        "Cluttered desk setups",
+        "High energy bills from running central AC"
+      ]
+    },
+    {
+      "name": "Clara Sterling",
+      "age": 29,
+      "interests": [
+        "Holistic wellbeing",
+        "Sustainable living",
+        "Yoga",
+        "Modern home aesthetics"
+      ],
+      "pain_points": [
+        "Dry eyes from traditional direct fans",
+        "Bulky and ugly home appliances",
+        "Difficulty sleeping due to loud motor humming"
+      ]
+    },
+    {
+      "name": "Marcus Chen",
+      "age": 42,
+      "interests": [
+        "High-end tech gadgets",
+        "Productivity hacks",
+        "Minimalist aesthetics",
+        "IoT ecosystems"
+      ],
+      "pain_points": [
+        "Inconvenience of manual settings",
+        "Cheap-looking plastic fans that ruin his premium workspace vibe",
+        "Lack of gentle multi-directional air circulation"
+      ]
+    }
+  ]
+}

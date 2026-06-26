@@ -1,0 +1,142 @@
+{
+  "briefs": [
+    {
+      "persona_name": "Julian Vance",
+      "key_message": "Smarter breeze, zero noise. Redefine your workspace efficiency with whisper-quiet cooling.",
+      "visual_blueprint": {
+        "image_specs": {
+          "format": "Hero Header",
+          "aspect_ratio": "16:9",
+          "resolution": "8K Photorealistic"
+        },
+        "cinematography": {
+          "lens_type": "85mm Portrait",
+          "depth_of_field": "Shallow (bokeh)",
+          "lighting": "Dramatic Spotlight",
+          "exposure": "Low-key"
+        },
+        "subject": {
+          "identity": "Sleek futuristic smart fan with subtle glowing orange elements",
+          "placement": "Center-stage",
+          "wardrobe_or_finish": "Premium matte chassis with metallic finishes and glowing #FF5733 accents",
+          "action_pose": "Static and active but completely whisper-quiet"
+        },
+        "composition": {
+          "shot_type": "Hero Shot",
+          "angle": "Hero-angle (low)",
+          "negative_space": "Left and right thirds for typography"
+        },
+        "visual_details": {
+          "color_palette": "#F4F4F9 base with contrasting #FF5733 orange accents",
+          "mood": "Minimalist and futuristic",
+          "texture": "Polished metal and smooth matte plastic",
+          "props": "Sleek minimalist wooden desk, pristine notepad"
+        },
+        "environment": {
+          "location": "Pristine minimalist desk setup",
+          "background_blur": "Moderate blur focusing attention on the device"
+        }
+      },
+      "video_blueprint": {
+        "camera_movement": "Slow continuous pan with a smooth zoom-in",
+        "lighting": "Soft workspace glow transitioning to dramatic spotlighting",
+        "subject_action": "The smart fan activates silently with a gentle pulsing aura in #FF5733 along its metallic chassis",
+        "environment": "Ultra-clean, minimalist home office desk setup",
+        "color_grading": "Clean #F4F4F9 base with vibrant #FF5733 pops and a warm transition",
+        "transitions": "Smooth fade to cozy soft-lit setting"
+      }
+    },
+    {
+      "persona_name": "Clara Sterling",
+      "key_message": "Breathe naturally. Experience gentle, silent air circulation designed for holistic wellbeing and peaceful sleep.",
+      "visual_blueprint": {
+        "image_specs": {
+          "format": "Instagram Post",
+          "aspect_ratio": "1:1",
+          "resolution": "High-Res Commercial"
+        },
+        "cinematography": {
+          "lens_type": "35mm Lifestyle",
+          "depth_of_field": "Deep (all in focus)",
+          "lighting": "Dramatic high-contrast morning light streaming through a window",
+          "exposure": "High-key"
+        },
+        "subject": {
+          "identity": "Sleek, organic-shaped air circulator",
+          "placement": "Rule of Thirds",
+          "wardrobe_or_finish": "Satin white and light wood premium organic finish",
+          "action_pose": "Standing elegant and static in the center of the wellness corner"
+        },
+        "composition": {
+          "shot_type": "Lifestyle Action",
+          "angle": "Eye-level",
+          "negative_space": "Top half for copy"
+        },
+        "visual_details": {
+          "color_palette": "Warm #f3d6a1 ochre and soft #F4F4F9 off-white tones",
+          "mood": "Aspirational and holistic",
+          "texture": "Smooth matte plastic, soft linen, warm timber",
+          "props": "Potted plant, linen curtain"
+        },
+        "environment": {
+          "location": "Elegant, cozy residential wellness corner",
+          "background_blur": "Soft, gentle background blur"
+        }
+      },
+      "video_blueprint": {
+        "camera_movement": "Sweeping camera movement starting from corner, gliding past the device and tracking motion",
+        "lighting": "Warm natural morning sunlight casting soft rays",
+        "subject_action": "The air circulator remains elegant while a symbolic, abstract wave of light representing clean air flows around it",
+        "environment": "Serene room corner with soft minimalist decor",
+        "color_grading": "Warm Vintage with soft #f3d6a1 and clean #F4F4F9 tones",
+        "transitions": "Smooth match cut transitioning using the primary color palette"
+      }
+    },
+    {
+      "persona_name": "Marcus Chen",
+      "key_message": "Seamless integration. Elevate your premium ecosystem with intelligent, multi-directional airflow.",
+      "visual_blueprint": {
+        "image_specs": {
+          "format": "Billboard",
+          "aspect_ratio": "16:9",
+          "resolution": "8K Photorealistic"
+        },
+        "cinematography": {
+          "lens_type": "100mm Macro",
+          "depth_of_field": "Shallow (bokeh)",
+          "lighting": "Dramatic rim lighting with subtle orange glow",
+          "exposure": "Low-key"
+        },
+        "subject": {
+          "identity": "Premium intelligent multi-directional air device",
+          "placement": "Center-stage",
+          "wardrobe_or_finish": "Carbon fiber and brushed metal premium-finish with #FF5733 and #F4F4F9 highlights",
+          "action_pose": "Positioned dynamically casting sharp architectural shadows"
+        },
+        "composition": {
+          "shot_type": "Product Close-up",
+          "angle": "Hero-angle (low)",
+          "negative_space": "Right third for bold text"
+        },
+        "visual_details": {
+          "color_palette": "Stark dark tones contrasted with #FF5733 and #F4F4F9 glowing accents",
+          "mood": "Minimalist and high-tech",
+          "texture": "Brushed metallic, textured carbon fiber",
+          "props": "Minimal abstract tech pedestal"
+        },
+        "environment": {
+          "location": "Stark futuristic digital lab setting with a dark studio backdrop",
+          "background_blur": "High blur with ambient light bokeh"
+        }
+      },
+      "video_blueprint": {
+        "camera_movement": "Continuous, smooth orbital zoom-out",
+        "lighting": "Dynamic, high-contrast premium lighting transitions",
+        "subject_action": "The premium device rotates gracefully, distributing air multi-directionally with subtle visual cues",
+        "environment": "High-tech minimalist workspace hub with digital accents",
+        "color_grading": "Cool tech-focused with vibrant orange and white (#FF5733/#F4F4F9) light elements",
+        "transitions": "Seamless loop with smooth cuts"
+      }
+    }
+  ]
+}

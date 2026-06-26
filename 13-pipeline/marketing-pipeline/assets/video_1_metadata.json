@@ -1,0 +1,14 @@
+{
+  "session_id": "f15761d3-6ccb-4b0b-88ad-4c860b3f8726",
+  "timestamp": "2026-06-15T16:12:52.574737+00:00",
+  "prompt": "Camera Movement: Sweeping camera movement starting from corner, gliding past the device and tracking motion. Lighting: Warm natural morning sunlight casting soft rays. Subject Action: The air circulator remains elegant while a symbolic, abstract wave of light representing clean air flows around it. Environment: Serene room corner with soft minimalist decor. Color Grading: Warm Vintage with soft #f3d6a1 and clean #F4F4F9 tones. Transitions: Smooth match cut transitioning using the primary color palette.\n\nGlobal Styleguide:\n# Global Styleguide\n\n## Brand Guidelines\n- **Primary Colors:** #FF5733 (Vibrant Sunrise), #f3d6a1 (Boring Beige), #F4F4F9 (Cloud White).\n- **Mood/Tone:** Modern, energetic, premium, forward-thinking, and slightly playful.\n- **Inclusions:** Cozy settings, wellbeing, clear typography.\n- **Exclusions:** No photorealistic people, no cluttered backgrounds, no cheap or spammy text.\n\n## Modality-Specific Instructions\n\n### Text (Copywriting & Strategy)\n- Keep sentences short, punchy, and action-oriented.\n- Emphasize the product's innovative aspects.\n- Avoid prohibited terms: \"cheap\", \"guaranteed\", \"miracle\", \"overnight\".\n\n### Images (Visuals)\n- Focus on product features, abstract representations of AI, or sleek environments.\n- Lighting should be dramatic, with high contrast.\n- Absolutely no human figures or human hands.\n\n### Video\n- Smooth, sweeping camera movements (e.g., slow pans, zoom-ins).\n- Transitions should be seamless.\n- Maintain the primary color palette throughout the sequence.\n- Adhere strictly to the \"NO HUMANS\" exclusion.\n- NO TEXT",
+  "blueprint": {
+    "camera_movement": "Sweeping camera movement starting from corner, gliding past the device and tracking motion",
+    "lighting": "Warm natural morning sunlight casting soft rays",
+    "subject_action": "The air circulator remains elegant while a symbolic, abstract wave of light representing clean air flows around it",
+    "environment": "Serene room corner with soft minimalist decor",
+    "color_grading": "Warm Vintage with soft #f3d6a1 and clean #F4F4F9 tones",
+    "transitions": "Smooth match cut transitioning using the primary color palette"
+  },
+  "persona_name": "Clara Sterling"
+}
