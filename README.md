@@ -92,6 +92,64 @@ export OPENAI_API_KEY="sk-proj-..."
 
 ---
 
+## 🎁 Unlock Your Free Book Benefits
+
+Your purchase of **Multimodal Generative AI in the Enterprise: From Pixels to Profit** includes exclusive benefits from Packt.
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 📘 DRM-Free eBook
+
+Download DRM-free **PDF** and **ePub** versions of this book.
+
+</td>
+
+<td align="center" width="33%">
+
+### 📚 7-Day Packt Library Access
+
+Enjoy **7-day unlimited access** to thousands of books and videos.
+
+</td>
+
+<td align="center" width="33%">
+
+### 💻 Packt Reader
+
+Read online with progress sync, dark mode, and note-taking support.
+
+</td>
+</tr>
+</table>
+
+### Unlock in 3 Easy Steps
+
+1. **Keep your purchase invoice ready**
+   - If you purchased a physical copy, scan your invoice and save it as a **PDF, JPG, or PNG**.
+   - If you purchased directly from **Packt**, no invoice is required.
+
+2. **Visit the unlock page**
+   - Go to **https://www.packtpub.com/unlock**
+   - Search for **Multimodal Generative AI in the Enterprise: From Pixels to Profit** and select the correct edition.
+
+3. **Sign in and upload proof of purchase**
+   - Sign in (or create a free Packt account).
+   - Upload your invoice (PDF, PNG, or JPG, up to **10 MB**) and follow the on-screen instructions.
+
+### Need Help?
+
+For frequently asked questions and additional assistance, visit:
+
+👉 https://www.packtpub.com/unlock-benefits/help
+
+If you continue to experience issues, contact:
+
+📧 **customercare@packt.com**
+
+---
+
 ## 📚 Book References & Links
 *   **Official Publisher Site**: [Packt Publishing](https://www.packtpub.com/)
 *   **Google Gen AI Python SDK Docs**: [GitHub - google-genai](https://github.com/googleapis/python-genai)
